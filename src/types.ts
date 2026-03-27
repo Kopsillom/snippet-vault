@@ -1,4 +1,4 @@
-export type SnippetType = 'text' | 'code' | 'link' | 'contact';
+export type SnippetType = "text" | "code" | "link" | "contact";
 
 export interface Category {
   id: string;
