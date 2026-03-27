@@ -1,0 +1,5 @@
+{
+  "name": "SnippetVault",
+  "description": "A categorized clipboard and snippet manager to organize code, text, links, and contacts with custom colors.",
+  "requestFramePermissions": []
+}
